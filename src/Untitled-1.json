@@ -1,0 +1,132 @@
+{
+  "_id": {
+    "$oid": "66106867aea614a326c2aa3e"
+  },
+  "name": "Segment 1",
+  "account_id": {
+    "$oid": "6578a05b432f7d60e873ebb5"
+  },
+  "total_count": 0,
+  "created_at": {
+    "$date": "2024-04-05T21:08:55.190Z"
+  },
+  "created_by": "vsura@gostrata.com",
+  "groups": [
+    {
+      "name": "Group 1",
+      "geo": [
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "Dallas, TX, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "Washington, DC, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "Detroit, MI, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "Dayton, OH, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "San Diego, CA, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "Durham, NC, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "locationType": "City",
+            "locationName": "Denver, CO, United States",
+            "isSearchResult": true
+          },
+          "geometry": {
+            "type": "FeatureCollection",
+            "features": []
+          }
+        }
+      ],
+      "rule": {
+        "combinator": "AND",
+        "rules": []
+      },
+      "count": 84868,
+      "type": "include",
+      "targeting_level": "individual"
+    }
+  ],
+  "suppression_list": [],
+  "labeled_segments": [
+    "658b2192b6ee5058051d57f1",
+    "66182d93d138eaefd906c1ae"
+  ],
+  "status": 1,
+  "source": "sms_consumers",
+  "updated_at": {
+    "$date": "2024-04-11T18:48:11.625Z"
+  },
+  "updated_by": "auto",
+  "targeting_level": "individual",
+  "tags": [],
+  "order_number": 992,
+  "fulfillment_details": {
+    "merge_type": "ADD_AND_UPDATE",
+    "priority": "Random",
+    "fulfillment_task_id": "66106867aea614a326c2aa3e"
+  },
+  "limit": null
+}
