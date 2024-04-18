@@ -1,4 +1,4 @@
-# WordCount tool in Rust
+# [WordCount tool in Rust](https://codingchallenges.fyi/challenges/challenge-wc)
 
 ### Dependencies
 Rust
